@@ -1,3 +1,4 @@
+![Cover](cover.png)
 # 🎯 B2B Lead Scraper Pro (Python + Streamlit GUI)
 
 Extract verified business leads, hidden website emails, phone numbers, and social media profiles into **Excel (.xlsx) & CSV** — **100% Free to run with ZERO paid API keys!**
